@@ -9,4 +9,5 @@ venv/
 *.html
 *.pyc
 
+.env
 __pycache__
