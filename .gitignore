@@ -1,0 +1,12 @@
+venv/
+
+# Ignore all excelfiles
+*.xlsx
+
+*.pdf
+*.txt
+
+*.html
+*.pyc
+
+__pycache__
