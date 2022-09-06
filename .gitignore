@@ -1,0 +1,14 @@
+venv/
+
+fastapi/
+# Ignore all excelfiles
+*.xlsx
+
+*.pdf
+*.txt
+
+*.html
+*.pyc
+
+.env
+__pycache__
