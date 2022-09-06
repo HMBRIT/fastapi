@@ -5,7 +5,7 @@ fastapi/
 *.xlsx
 
 *.pdf
-*.txt
+
 
 *.html
 *.pyc
